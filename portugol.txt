@@ -1,0 +1,1 @@
+Portugo é uma pseudo linguagem. 
